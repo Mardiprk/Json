@@ -8,7 +8,8 @@
         {"id":6,"firstName":"Peter", "lastName":"Jones"},
         {"id":7,"firstName":"Cheater", "lastName":"Lones"},
         {"id":8,"firstName":"Chear", "lastName":"Lon"},
-        {"id":9,"firstName":"Lone", "lastName":"Ranger"}
-        
+        {"id":9,"firstName":"Lone", "lastName":"Ranger"},
+        {"id":10,"firstName":"One", "lastName":"Ranger"},
+        {"id":11,"firstName":"None", "lastName":"Ranger"},
     ]
  }
